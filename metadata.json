@@ -1,0 +1,8 @@
+{
+  "name": "Ions Global - Smarter Spaces, Connected Living",
+  "description": "Premium regional technology distributor and connected ecosystem partner across Southeast Asia for smart living, security, access, automation, audio, climate, and energy management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
